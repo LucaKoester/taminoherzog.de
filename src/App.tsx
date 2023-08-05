@@ -4,7 +4,7 @@ import './App.scss';
 import logo from './assets/images/logo_v2.png';
 import opener from './assets/icons/opener.svg';
 
-import KeyboardArrowDownIcon from '@mui/icons-material/KeyboardArrowDown';
+//import KeyboardArrowDownIcon from '@mui/icons-material/KeyboardArrowDown';
 
 import Repeater from './elements/repeater/repeater';
 import Spotify from './elements/spotify/spotify';
