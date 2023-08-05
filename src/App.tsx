@@ -6,10 +6,10 @@ import opener from './assets/icons/opener.svg';
 
 import KeyboardArrowDownIcon from '@mui/icons-material/KeyboardArrowDown';
 
-import Repeater from './elements/repeater';
-import Spotify from './elements/spotify';
+import Repeater from './elements/repeater/repeater';
+import Spotify from './elements/spotify/spotify';
 
-import Footer from './elements/footer';
+import Footer from './elements/footer/footer';
 
 function App() {
 
