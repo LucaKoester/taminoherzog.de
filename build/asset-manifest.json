@@ -1,18 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.8eab6bf0.css",
-    "main.js": "/static/js/main.e1fbbeac.js",
+    "main.css": "/static/css/main.64e1a079.css",
+    "main.js": "/static/js/main.b09b61fa.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "static/media/tamino_chicago.jpg": "/static/media/tamino_chicago.c85af0ca1c25f29a8e3a.jpg",
+    "static/media/Theater_title.jpg": "/static/media/Theater_title.aecf28108a6539c34c65.jpg",
     "static/media/logo_v2.png": "/static/media/logo_v2.fd5e836a52382faccf9e.png",
     "index.html": "/index.html",
-    "static/media/opener.svg": "/static/media/opener.c1e79a808395503c651074aab2e3a4dd.svg",
-    "main.8eab6bf0.css.map": "/static/css/main.8eab6bf0.css.map",
-    "main.e1fbbeac.js.map": "/static/js/main.e1fbbeac.js.map",
+    "main.64e1a079.css.map": "/static/css/main.64e1a079.css.map",
+    "main.b09b61fa.js.map": "/static/js/main.b09b61fa.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8eab6bf0.css",
-    "static/js/main.e1fbbeac.js"
+    "static/css/main.64e1a079.css",
+    "static/js/main.b09b61fa.js"
   ]
 }
