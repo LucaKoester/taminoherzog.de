@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 
 import './repeater.scss';
+import { PhotoCameraBack } from '@mui/icons-material';
 
 export default function repeater(property:any){
 
@@ -21,7 +22,6 @@ export default function repeater(property:any){
         //     icon?.classList.remove('turnIcon');
         // }
     }
-
 
         return (
                 <div className="repeater" id="repeater">

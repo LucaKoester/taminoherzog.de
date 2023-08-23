@@ -32,3 +32,12 @@
 .footer h2:hover{
     font-weight: 600;
 }
+
+.rocket{
+    height: 7vh;
+    transition: all .4s ease;
+}
+
+.rocket:hover{
+    filter: invert(2);
+}
