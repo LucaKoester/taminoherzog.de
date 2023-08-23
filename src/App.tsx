@@ -4,6 +4,7 @@ import React, { useState } from 'react';
 import './App.scss';
 import Impressum from './elements/rechtliches/impressum';
 import Datenschutz from './elements/rechtliches/datenschutz';
+import ContactForm from './elements/form/form';
 
 import logo from './assets/images/logo_v2.png';
 import opener from './assets/icons/opener.svg';
@@ -43,6 +44,7 @@ function App() {
               }
             </div>
 
+            <ContactForm />
             <Footer />
           </div>
   
